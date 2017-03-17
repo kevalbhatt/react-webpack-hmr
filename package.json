@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Setup react with babel to work with es6 and run application in Webpack dev server with hmr (hot module replacement)",
     "main": "index.js",
-    "repository": "kevalbhatt/react-babel-es6",
+    "repository": "kevalbhatt/react-webpack-hmr",
     "author": {
         "name": "Keval Bhatt",
         "email": "kbhatt@apache.org, kevalbhatt18@gmail.com",
