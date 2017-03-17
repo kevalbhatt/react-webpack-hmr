@@ -21,8 +21,5 @@ module.exports = {
             //     presets: ["es2015", "react", "react-hmre"] <- either specify hear or in .babelrc
             // }
         }]
-    },
-    devServer: {
-        hot: true
     }
 }
