@@ -12,8 +12,8 @@ open http://localhost:8080
 ```
 #### OR
 
-
-## Generate folder structure using Slush scaffolding
+ 
+## [Generate folder structure using Slush scaffolding]( https://github.com/kevalbhatt/slush-react-webpack-hmr)
 
 Install `slush-react-webpack-hmr` globally:
 
